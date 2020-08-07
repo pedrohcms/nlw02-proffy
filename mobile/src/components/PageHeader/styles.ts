@@ -12,6 +12,12 @@ const stytels = StyleSheet.create({
     justifyContent: "space-between",
   },
 
+  header: {
+    flexDirection: "row",
+    alignItems: "center",
+    justifyContent: "space-between",
+  },
+
   title: {
     fontFamily: "Archivo_700Bold",
     color: "#fff",
